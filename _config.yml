@@ -24,7 +24,7 @@ instagram_username: pavan.music
 
 # Build settings
 markdown: kramdown
-theme: garth-jekyll-theme
+theme: 
 plugins:
   - jekyll-feed
 
